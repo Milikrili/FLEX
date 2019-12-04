@@ -1,0 +1,70 @@
+.wrapper{
+    display: flex;
+    justify-content:space-evenly;
+    background: rgb(114, 49, 114);
+    
+}
+.wrapper a{
+    text-decoration: none;
+    color: rgb(243, 171, 243);
+}
+
+.box{
+    width:120px;
+    height: 60px;
+    background: rgb(66, 15, 66);
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.box p{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    }
+
+.kocka{
+    width: 500px;
+    height: 300px;
+    background: rgb(66, 15, 66);
+    color: rgb(243, 171, 243);
+    
+    
+    
+}
+.kocka p{
+    text-align:left;
+    padding-top: 40px;
+    padding-left: 10px;
+  
+}
+.radius{
+    display:flex;
+    justify-content: space-around;
+    
+}
+  h2{
+    color: rgb(66, 15, 66);
+     background: rgb(243, 171, 243);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.krug img{
+   
+    border-radius: 100%;
+    width: 100px;
+    padding-bottom: 20px;
+}
+.sve
+{
+    background: rgb(243, 171, 243);
+    margin-left:100px ;
+    margin-right: 100px;
+}
+
+
+
